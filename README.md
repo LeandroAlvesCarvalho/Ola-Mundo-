@@ -3,4 +3,4 @@
 
  repositorio criado durante uma aula!
 
-Linha adicionada pelo editor do site
+Linha adicionada pelo editor do GitHub

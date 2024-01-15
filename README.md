@@ -19,7 +19,7 @@ Lista Numerada:
 Lista demarcada:
 * teste1
    * teste2
-       * teste3
+      * teste3
 * teste4
 
 Lista de tarefas:
@@ -27,3 +27,26 @@ Lista de tarefas:
 - [ ] teste2
 - [x] teste3
 - [x] teste4
+
+markdown | teste | tabela
+---|---|---
+1 | *Markdown* | Teste 1
+2 | __Markdown__ | Teste 2
+3 | __*Markdown*__ | Teste 3
+
+Teste de comando: 
+`document.getElementByld()`
+
+Teste de codigo:
+```
+num = int(imput('digite um valor:')
+if num % 2 == 0:
+    print(f'O valor {num} é PAR')
+else:
+    print(f'0 valor {num} é IMPAR')        
+```
+
+teste de emoji: 🖖 🤙
+
+
+

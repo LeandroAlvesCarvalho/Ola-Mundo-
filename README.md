@@ -5,10 +5,10 @@
 
 ----------------------------------------------------------------------------------------
 
-Linhas de teste de ~~markdown~~ do curso em video de __*Git e GitHub*__
+Linhas de teste de markdown do curso em video de __*Git e GitHub*__
 # Markdown
 ## __*Markdown*__
-### *Markdown*
+### ~~Markdown~~
 
 Lista Numerada:
 1. teste1
